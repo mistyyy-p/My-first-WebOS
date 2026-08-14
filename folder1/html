@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+
+  <body>
+    <h1>Welcome to my OS</h1>
+    <h2>Introduction</h2>
+    <p>Hello World!</p>
+    <img src="https://raw.githubusercontent.com/mistyyy-p/My-first-WebOS/main/image.jpeg" alt="Image of my fav animal: The cat!!!!">
+    <a href="https://www.instagram.com/iamaperson369/">My insta!!!</a>
+  </body>
+
+</html>
